@@ -29,6 +29,16 @@ Before you begin, ensure you have the following installed:
 - CMake (optional, for larger projects)
 - Git (for version control)
 
+
+Before you begin, ensure you have the following installed on your system:
+
+    C++ Compiler: GCC or Clang (for Linux/Mac) or MSVC (for Windows).
+    CMake: For building the project (optional if using Makefile).
+    Git: For version control.
+    Python: For running any scripts (if applicable).
+    Bash: For running shell scripts (Linux/Mac) or Git Bash (Windows).
+
+
 ### Clone the Repository
 
 ```bash
