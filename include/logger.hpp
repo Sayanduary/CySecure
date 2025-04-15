@@ -1,24 +1,22 @@
-#ifndef LOGGER_HPP
-#define LOGGER_HPP
+#ifndef LOGGER_H
+#define LOGGER_H
 
 #include <string>
 #include <fstream>
-#include <mutex>
 #include <iostream>
+#include <mutex>
 
 class Logger {
 public:
-    Logger(const std::string& filename = "logs/cysecure.log");
-    void log(const std::string& message);
-    
+    Logger(const std::string &filename);
+    ~Logger();
+
+    void log(const std::string &message);
+    void close();
+
 private:
-    std::string logFile;
-    std::mutex mtx; // Thread-safe logging
+    std::ofstream log_file;
+    std::mutex log_mutex; // To ensure thread safety
 };
 
-#endif // LOGGER_HPP
-
-
-/*std::mutex ensures thread safety when multiple parts of the program log simultaneously.
-
-Constructor lets you specify or default to logs/cysecure.log.*/
+#endif // LOGGER_H
