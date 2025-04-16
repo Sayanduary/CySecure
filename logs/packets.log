@@ -36,3 +36,12 @@
 [2025-04-15 22:36:45] [Packet 37] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 51.11.192.50, Src Port: 58710, Dst Port: 443
 [2025-04-15 22:36:45] [Packet 38] Protocol: TCP, Src IP: 51.11.192.50, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 58710
 [2025-04-15 22:36:45] [Packet 39] Protocol: TCP, Src IP: 51.11.192.50, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 58710
+[2025-04-16 10:34:50] [Packet 1] Protocol: Other, Src IP: 192.168.0.1, Dst IP: 224.0.0.22
+[2025-04-16 10:34:51] [Packet 3] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 34.107.221.82, Src Port: 58954, Dst Port: 80
+[2025-04-16 10:34:51] [Packet 4] Protocol: TCP, Src IP: 34.107.221.82, Dst IP: 192.168.0.215, Src Port: 80, Dst Port: 58954
+[2025-04-16 10:34:51] [Packet 6] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 34.107.221.82, Src Port: 58968, Dst Port: 80
+[2025-04-16 10:34:51] [Packet 7] Protocol: TCP, Src IP: 34.107.221.82, Dst IP: 192.168.0.215, Src Port: 80, Dst Port: 58968
+[2025-04-16 10:34:53] [Packet 9] Protocol: Other, Src IP: 192.168.0.1, Dst IP: 224.0.0.2
+[2025-04-16 10:34:53] [Packet 11] Protocol: Other, Src IP: 192.168.0.1, Dst IP: 239.255.255.250
+[2025-04-16 10:34:59] [Packet 14] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 224.0.0.251, Src Port: 34798, Dst Port: 5353
+[2025-04-16 10:34:59] [Packet 15] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 224.0.0.251, Src Port: 51282, Dst Port: 5353
