@@ -45,3 +45,19 @@
 [2025-04-16 10:34:53] [Packet 11] Protocol: Other, Src IP: 192.168.0.1, Dst IP: 239.255.255.250
 [2025-04-16 10:34:59] [Packet 14] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 224.0.0.251, Src Port: 34798, Dst Port: 5353
 [2025-04-16 10:34:59] [Packet 15] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 224.0.0.251, Src Port: 51282, Dst Port: 5353
+[2025-04-16 12:10:21] [Packet 1] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 41000, Dst Port: 443
+[2025-04-16 12:10:21] [Packet 2] Protocol: TCP, Src IP: 35.174.127.31, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 41000
+[2025-04-16 12:10:21] [Packet 3] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 41000, Dst Port: 443
+[2025-04-16 12:10:22] [Packet 4] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 56562, Dst Port: 443
+[2025-04-16 12:10:22] [Packet 5] Protocol: TCP, Src IP: 35.174.127.31, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 56562
+[2025-04-16 12:10:22] [Packet 6] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 56562, Dst Port: 443
+[2025-04-16 12:10:23] [Packet 7] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 192.168.0.255, Src Port: 33398, Dst Port: 20002
+[2025-04-16 12:10:25] [Packet 8] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 224.0.0.251, Src Port: 52251, Dst Port: 5353
+[2025-04-16 12:10:25] [Packet 9] Protocol: UDP, Src IP: 192.168.0.1, Dst IP: 224.0.0.251, Src Port: 37783, Dst Port: 5353
+[2025-04-16 12:10:25] [Packet 10] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 57086, Dst Port: 443
+[2025-04-16 12:10:25] [Packet 11] Protocol: TCP, Src IP: 35.174.127.31, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 57086
+[2025-04-16 12:10:25] [Packet 12] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 57086, Dst Port: 443
+[2025-04-16 12:10:25] [Packet 13] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 57086, Dst Port: 443
+[2025-04-16 12:10:25] [Packet 14] Protocol: TCP, Src IP: 35.174.127.31, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 57086
+[2025-04-16 12:10:25] [Packet 15] Protocol: TCP, Src IP: 192.168.0.215, Dst IP: 35.174.127.31, Src Port: 57086, Dst Port: 443
+[2025-04-16 12:10:25] [Packet 16] Protocol: TCP, Src IP: 35.174.127.31, Dst IP: 192.168.0.215, Src Port: 443, Dst Port: 57086
